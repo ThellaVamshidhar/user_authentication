@@ -1,0 +1,58 @@
+/* Signup Style */
+
+.Signup-div1{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.Signup-div2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Signup-typo{
+    text-align: center;
+    margin-bottom: 20px !important;
+}
+
+
+/* end */
+
+
+/* Signin Style */
+
+.Signin-div1{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Signin-div2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Home css */
+
+.home-div{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.home-btn{
+    padding: 20px 100px;
+    font-size: large;
+}
